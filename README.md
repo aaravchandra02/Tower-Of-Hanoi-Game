@@ -9,6 +9,8 @@ In order to run this game, follow these following steps:
       `python3 "Projects/Game - Tower of Hanoi/TOH.py"`
       
 - To Exit press 'control + C' on your keyboard.
+
+
 ---
 
 I hope you like it. :slightly_smiling_face:
